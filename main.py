@@ -10,7 +10,7 @@ CODE_URL = "https://github.com/Marko-tem/EsPyOS/blob/main/main.py"
 
 class MicroTerminal:
     def __init__(self):
-        self.version = 1.0
+        self.version = 1.1
         self.platform = sys.platform
         self.display = None
         
